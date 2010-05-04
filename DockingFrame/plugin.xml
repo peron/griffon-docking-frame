@@ -1,0 +1,6 @@
+<plugin name='docking-frame' version='0.1' griffonVersion='0.4-SNAPSHOT &gt; *' jdk='1.5'>
+  <author>Your name</author>
+  <title>Plugin summary/headline</title>
+  <documentation>http://griffon.codehaus.org/DockingFrame+Plugin</documentation>
+  <dependencies />
+</plugin>

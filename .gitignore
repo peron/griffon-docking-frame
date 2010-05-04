@@ -1,0 +1,4 @@
+stacktrace.log
+**/dist
+**/griffon-docking-frame-*.zip
+**/staging
